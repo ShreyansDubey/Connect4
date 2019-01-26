@@ -1,0 +1,22 @@
+.board button {
+  width: 100px;
+  height: 100px;
+  background-color: #ffff80;
+  border-radius: 50%;
+  border: 2px solid black; /*this gets rid of bootstrap shadow*/
+  margin: 1px;
+}
+
+#player_one_info{
+display:inline;
+float:left;
+}
+
+#player_two_info{
+display:inline;
+float:right;
+}
+
+
+
+
